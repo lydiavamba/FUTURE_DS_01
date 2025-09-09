@@ -1,8 +1,11 @@
 
 Overview
+
+
 This is an interactive E-commerce Performance Dashboard built in Power BI during my Future Interns Data Science Internship. The dashboard provides actionable insights into sales trends, top products, and high-revenue regions to support data-driven business decisions.
 
 Key Features
+
 Sales Trends: Track monthly and seasonal patterns.
 Top Products & Categories: Identify best-selling items.
 Regional Analysis: Highlight high-performing regions.
