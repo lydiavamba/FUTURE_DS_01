@@ -11,7 +11,9 @@ Top Products & Categories: Identify best-selling items.
 Regional Analysis: Highlight high-performing regions.
 Interactive Visuals: Filters and slicers for dynamic exploration.
 Data Insights: Built with clean data and DAX measures.
+
 Skills & Tools
+
 Tools: Power BI Desktop
 Techniques: Data Cleaning, DAX Calculations, Data Visualization, Dashboard Storytelling
 Focus Areas: Trend Analysis, KPI Measurement, Business Intelligence
@@ -25,7 +27,9 @@ How to Use
 Open the .pbix file in Power BI Desktop.
 Use filters and slicers to explore data by month, product, or region.
 Hover over visuals to see detailed metrics and tooltips.
+
 Insights
+
 Peak sales months for planning promotions.
 Top-selling products for inventory and marketing focus.
 Regional performance analysis to optimize logistics and sales strategy.
